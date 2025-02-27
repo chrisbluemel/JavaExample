@@ -1,0 +1,6 @@
+remote_host = 
+remote_database =
+remote_user =
+remote_password = 
+remote_port = 
+remote_collection = 
